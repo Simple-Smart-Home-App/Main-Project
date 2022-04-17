@@ -4,3 +4,6 @@
 [submodule "Backend_API_SmartHomeApp"]
 	path = Backend_API_SmartHomeApp
 	url = git@github.com:Simple-Smart-Home-App/Backend_API_SmartHomeApp.git
+[submodule "Front-End-App"]
+	path = Front-End-App
+	url = git@github.com:Simple-Smart-Home-App/Front-End-App.git

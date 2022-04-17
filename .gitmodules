@@ -1,0 +1,9 @@
+[submodule "ESP8266_App"]
+	path = ESP8266_App
+	url = git@github.com:Simple-Smart-Home-App/ESP8266_App.git
+[submodule "Backend_API_SmartHomeApp"]
+	path = Backend_API_SmartHomeApp
+	url = git@github.com:Simple-Smart-Home-App/Backend_API_SmartHomeApp.git
+[submodule "app"]
+	path = app
+	url = git@github.com:Simple-Smart-Home-App/app.git

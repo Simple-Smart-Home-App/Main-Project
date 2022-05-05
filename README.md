@@ -65,8 +65,8 @@ For the Java version of the application, locate the build.gradle(app)
 under Gradle Scripts in the project heirarchy on the left. Here is where 
 the android SDK versions are set, be sure that these match with your gradle settings
 found in File > Settings > Build, Execution, Deployment > Build Tools > Gradle.
-and the SDK needed can be downloaded through Android Studio at T
-ools > SDK Manager > Android SDK > SDK Tools (you may check Show Pakage Details 
+and the SDK needed can be downloaded through Android Studio at 
+Tools > SDK Manager > Android SDK > SDK Tools (you may check Show Pakage Details 
 on the bottom left to see various version to install and select Apply when finished)
 
 Required to compile with Android Studio:

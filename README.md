@@ -4,9 +4,13 @@
 *Authors*
 ---
 John Stevenson
+
 Sam Deshazer
+
 Minh Nguyen
+
 Patrick Tsai
+
 Levi Benning
 
 

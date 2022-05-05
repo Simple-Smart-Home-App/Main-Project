@@ -7,3 +7,6 @@
 [submodule "Front-End-App"]
 	path = Front-End-App
 	url = git@github.com:Simple-Smart-Home-App/Front-End-App.git
+[submodule "FrontEndAppJava"]
+	path = FrontEndAppJava
+	url = git@github.com:Simple-Smart-Home-App/FrontEndAppJava.git
